@@ -1,0 +1,153 @@
+[
+  {
+    "part_1": {
+      "name": "Scholastic Areas",
+      "subject": [
+        {
+          "name": "English",
+          "fa": 10,
+          "fa_oral": 10,
+          "sa": 70,
+          "sa_oral": 10,
+          "total": 98
+        },
+        {
+          "name": "Hindi",
+          "fa": 10,
+          "fa_oral": 10,
+          "sa": 70,
+          "sa_oral": 10,
+          "total": 98
+        },
+        {
+          "name": "Sanskrit / Urdu",
+          "fa": 10,
+          "fa_oral": 10,
+          "sa": 67,
+          "sa_oral": 10,
+          "total": 98
+        },
+        {
+          "name": "Math",
+          "fa": 10,
+          "fa_oral": 10,
+          "sa": 56,
+          "sa_oral": 10,
+          "total": 98
+        },
+        {
+          "name": "EVS",
+          "fa": 10,
+          "fa_oral": 10,
+          "sa": 70,
+          "sa_oral": 10,
+          "total": 98
+        },
+        {
+          "name": "Social Study",
+          "fa": 10,
+          "fa_oral": 10,
+          "sa": 70,
+          "sa_oral": 10,
+          "total": 98
+        },
+        {
+          "name": "Computer",
+          "fa": 10,
+          "fa_oral": 10,
+          "sa": 70,
+          "sa_oral": 10,
+          "total": 98
+        },
+        {
+          "name": "Moral",
+          "fa": 10,
+          "fa_oral": 10,
+          "sa": 67,
+          "sa_oral": 10,
+          "total": 98
+        },
+        {
+          "name": "G.K",
+          "fa": 10,
+          "fa_oral": 10,
+          "sa": 70,
+          "sa_oral": 10,
+          "total": 98
+        },
+        {
+          "name": "Conversation",
+          "fa": 13,
+          "fa_oral": 10,
+          "sa": 70,
+          "sa_oral": 4,
+          "total": 98
+        },
+        {
+          "name": "Drawing",
+          "fa": " ",
+          "fa_oral": " ",
+          "sa": " ",
+          "sa_oral": " ",
+          "total": "A"
+        }
+      ]
+    },
+    "part_2": {
+      "name": "Co-Scholastic Areas",
+      "subject": [
+        {
+          "name": "Development & Maturity",
+          "grade": "A"
+        },
+        {
+          "name": "Responsibility",
+          "grade": "A"
+        },
+        {
+          "name": "Self-Confidence",
+          "grade": "A"
+        },
+        {
+          "grade": "A",
+          "name": "Participation in Group Work"
+        },
+        {
+          "name": "Neatness",
+          "grade": "A+"
+        },
+        {
+          "name": "Music",
+          "grade": "B"
+        },
+        {
+          "name": "Discipline",
+          "grade": "A"
+        },
+        {
+          "name": "Hand Work",
+          "grade": "A"
+        },
+        {
+          "name": "Attitude towards Home work",
+          "grade": "A"
+        },
+        {
+          "name": "Craft",
+          "grade": "A"
+        },
+        {
+          "name": "Regularity & Punctuality",
+          "grade": "A"
+        }
+      ]
+    },
+    "part3": {
+      "TERM-I": {
+        "NoWD": 83,
+        "NoWP": 83
+      }
+    },
+    "Remark": "Excellent"
+  }
+]
